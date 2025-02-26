@@ -13,7 +13,7 @@ Install [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory).
 
 ## Dataset
 
-Download the dataset from [HuggingFace]](https://huggingface.co/datasets/travisxu/PEToolBench). Then put the training files into /dataset_sft and /dataset_dpo, test files into /dataset_test.
+Download the dataset from [HuggingFace](https://huggingface.co/datasets/travisxu/PEToolBench). Then put the training files into /dataset_sft and /dataset_dpo, test files into /dataset_test.
 
 ## Test
 
