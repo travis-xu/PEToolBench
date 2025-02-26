@@ -1,7 +1,7 @@
 # PEToolBench
 Code for our paper [PEToolLLM: Towards Personalized Tool Learning in Large Language Models].
 
-![intro](/assets/fig_intro.pdf)
+![intro](/assets/fig_intro.png)
 
 ## Installation
 
