@@ -1,0 +1,32 @@
+{
+  "user_entries_dpo_p": {
+    "file_name": "user_entries_dpo_p.json",
+    "ranking": true,
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "user_entries_dpo_r": {
+    "file_name": "user_entries_dpo_r.json",
+    "ranking": true,
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "user_entries_dpo_c": {
+    "file_name": "user_entries_dpo_c.json",
+    "ranking": true,
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  }
+}

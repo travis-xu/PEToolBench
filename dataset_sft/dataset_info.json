@@ -1,0 +1,26 @@
+{
+  "user_entries_sft_p": {
+    "file_name": "user_entries_sft_p.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "user_entries_sft_r": {
+    "file_name": "user_entries_sft_r.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "user_entries_sft_c": {
+    "file_name": "user_entries_sft_c.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  }
+}
