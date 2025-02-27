@@ -1,5 +1,5 @@
 # PEToolBench
-Code for our paper [PEToolLLM: Towards Personalized Tool Learning in Large Language Models].
+Code for our paper [PEToolLLM: Towards Personalized Tool Learning in Large Language Models](https://arxiv.org/abs/2502.18980).
 
 ![intro](/assets/fig_intro.png)
 
@@ -38,11 +38,13 @@ bash scripts/train_sft-dpo.sh
 ## Citation
 
 ```
-@misc{xu2025petoolllm,
+@misc{xu2025petoolllmpersonalizedtoollearning,
       title={PEToolLLM: Towards Personalized Tool Learning in Large Language Models}, 
-      author={Qiancheng Xu and Yongqi Li and Heming Xia and Wenjie Li},
+      author={Qiancheng Xu and Yongqi Li and Heming Xia and Fan Liu and Min Yang and Wenjie Li},
       year={2025},
+      eprint={2502.18980},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.18980}, 
 }
 ```
