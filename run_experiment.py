@@ -4,7 +4,7 @@ import pandas as pd
 # from sentence_transformers import SentenceTransformer, util
 import json
 import re
-from utils_xqc import standardize, standardize_category, change_name, set_seed, load_json, save_json
+from utils import set_seed, load_json, save_json
 import random
 import numpy as np
 import json
