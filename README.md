@@ -21,7 +21,7 @@ Download the dataset from [HuggingFace](https://huggingface.co/datasets/travisxu
 bash scripts/test.sh
 ```
 
-## PEToolLLaMA Training
+## Training: PEToolLLaMA
 
 ### Stage 1: Personalized SFT
 
@@ -45,5 +45,6 @@ bash scripts/train_sft-dpo.sh
       eprint={2502.18980},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.18980}, 
 }
 ```
