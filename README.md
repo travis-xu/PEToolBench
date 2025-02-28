@@ -45,6 +45,5 @@ bash scripts/train_sft-dpo.sh
       eprint={2502.18980},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.18980}, 
 }
 ```
