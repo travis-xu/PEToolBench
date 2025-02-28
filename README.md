@@ -1,5 +1,5 @@
 # PEToolBench
-Code for our paper PEToolLLM: Towards Personalized Tool Learning in Large Language Models.
+Code for our paper [PEToolLLM: Towards Personalized Tool Learning in Large Language Models](https://arxiv.org/abs/2502.18980).
 
 ![intro](/assets/fig_intro.png)
 
